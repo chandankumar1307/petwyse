@@ -8,7 +8,6 @@ We would love to get any kind of help from you people so if you want to contribu
 
 We also have some good-first-issues for the beginners.
 
-># Hi, If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 <hr>
 
 If you are looking to make your first contribution, follow the steps below.
